@@ -1,4 +1,4 @@
-# PAttern Flutter
+# Pattern Flutter
 l est essentiel d'avoir une arborescence de fichiers bien organisée pour faciliter la maintenance et l'extensibilité de l'application.
 ```
 lib/
