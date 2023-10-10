@@ -7,7 +7,7 @@ import '../static/constante.dart';
 //paramètre réseau pour avoir accès à l'API
 class Client {
   late Dio _dio;
-  static String url = baseUrlAndaalStore;
+  static String url = "";
 
   Client() {
     var options = BaseOptions(
