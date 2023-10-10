@@ -108,4 +108,16 @@ class AppRoutes {
 
 ```
 
+## Requirements
+
+packages needed :
+- State management: getx
+- api consumsion package :dio
+- Request interceptor : pretty_dio_logger
+- Network checker : internet_connection_checker
+- Manage responsive : sizer
+- internationnalisation :
+flutter_localizations:
+    sdk: flutter
+    version: ^0.0.0
 
